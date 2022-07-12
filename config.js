@@ -5,21 +5,21 @@
 // RECODE BY RIEL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285828764046'] 
-global.mods = ['6285828764046'] 
-global.prems = ['6285828764046'] 
+global.owner = ['6283840600765'] 
+global.mods = ['6283840600765'] 
+global.prems = ['6283840600765'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Oᵂηʀ᭄๖ۣۣۜ𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
-global.numberowner = '6285828764046'
+global.nameowner = 'Oᵂηʀ᭄๖ۣۣۜPutraNichcོ1꧅'
+global.numberowner = '6283840600765'
 global.instagram = 'https://instagram.com/zalfapontianak'
 global.github = 'https://github.com/Botynyakamu'
-global.dana = '085828764046'
-global.pulsa = '085828764046'
-global.gopay = '085828764046'
+global.dana = '083856051043'
+global.pulsa = '083840600765'
+global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
+global.namebot = '❋ཻུ۪۪⸙Putra-MD⳹ ❋ཻུ۪۪'
 global.gc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
 global.web = 'https://instagram.com/zalfapontianak' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/zalfapontianak'
@@ -30,10 +30,10 @@ global.fotonya1 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
+global.wm = '© ❋ཻུ۪۪⸙Putra-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
-global.wm3 = 'ᯤ rozi 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜPutra_Offcོ1꧅'
+global.wm3 = 'ᯤ putra 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -43,8 +43,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Zifabotz'
-global.author = '@rozi'
+global.packname = 'putrabotz'
+global.author = '@putra'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
